@@ -1,2 +1,2 @@
 # CS656-Research-Project
-Our Research Project is based on Challenging RSA's Efficacy in Large Data Encryption
+Our Research Project is based on Challenging RSA's Efficacy in Large Data Encryption. It is a recreating research which is challenging the existing research and providing more efficient approach.This article emphasizes the significance of adapting cryptographic practices to present contemporary digital security challenges and offers insights into the evolution of encryption algorithms.
